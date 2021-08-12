@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "js",
+    "noEmitOnError": true,
+    "strictNullChecks": false,
+    "allowJs": true
+  },
+  "include": [
+    "./src/*"
+  ]
+}
